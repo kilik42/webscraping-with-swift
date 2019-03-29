@@ -25,8 +25,11 @@ class ViewController: UIViewController {
             
             print(try p.text())
             
+            let a : Element = try doc.select("a").first()!
+            print( try a.text())
             
-            
+            let link: String = try a.attr("href")
+            let text: String = try a.text()
             
             
         } catch Exception.Error(type: let type, Message: let message) {
