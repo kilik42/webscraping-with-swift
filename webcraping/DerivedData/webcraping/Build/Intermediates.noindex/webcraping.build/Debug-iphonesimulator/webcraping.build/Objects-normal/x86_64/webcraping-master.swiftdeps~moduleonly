@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8df9ea8f2041d29272b8fb74eb40eb7f"
+build_time: [1553838650, 421809000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/webscrapingSwift/webcraping/webcraping/ViewController.swift": [1553838640, 302878479]
+  "/Users/marvinevins/Library/Autosave Information/webscrapingSwift/webcraping/webcraping/AppDelegate.swift": [1553836748, 318259304]

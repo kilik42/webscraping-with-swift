@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>682C8B45-BAB2-4578-91F0-3132A1215D12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>682C8B45-BAB2-4578-91F0-3132A1215D12.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftSoup-hgezxqqnyllwgcdyahfijgegjmvb</string>
+			<key>timeStartedRecording</key>
+			<real>575531446.131037</real>
+			<key>timeStoppedRecording</key>
+			<real>575531449.201267</real>
+			<key>title</key>
+			<string>Build target SwiftSoup</string>
+			<key>uniqueIdentifier</key>
+			<string>682C8B45-BAB2-4578-91F0-3132A1215D12</string>
+		</dict>
+		<key>72916821-BBE4-498C-9E9F-BA1051E5437B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>72916821-BBE4-498C-9E9F-BA1051E5437B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-webcraping-hgezxqqnyllwgcdyahfijgegjmvb</string>
+			<key>timeStartedRecording</key>
+			<real>575531449.20252895</real>
+			<key>timeStoppedRecording</key>
+			<real>575531450.393731</real>
+			<key>title</key>
+			<string>Build target Pods-webcraping</string>
+			<key>uniqueIdentifier</key>
+			<string>72916821-BBE4-498C-9E9F-BA1051E5437B</string>
+		</dict>
+		<key>CDAD4ECC-2BD6-447C-AB80-3F0740C5B69C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>CDAD4ECC-2BD6-447C-AB80-3F0740C5B69C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>webcraping-cyhnoashiobraqbleclyyjuycddm</string>
+			<key>timeStartedRecording</key>
+			<real>575531450.35768104</real>
+			<key>timeStoppedRecording</key>
+			<real>575531454.55693495</real>
+			<key>title</key>
+			<string>Build target webcraping</string>
+			<key>uniqueIdentifier</key>
+			<string>CDAD4ECC-2BD6-447C-AB80-3F0740C5B69C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
